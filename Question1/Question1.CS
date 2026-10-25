@@ -9,6 +9,7 @@ using System;public class HelloWorld {
       Sunday,
  }
   public static void Main(string[] args) {
+      Console.WriteLine("StudentID: 66568, Name: Abiha Rahim, Date: 10/25/2026");
       Console.WriteLine("Enter the number(1-7):");
       var daynumber= Console.ReadLine();// i used var to input of every data type
       int dayNumber;
